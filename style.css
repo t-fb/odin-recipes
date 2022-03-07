@@ -1,0 +1,86 @@
+.mainhead {
+    color:white;
+    text-align: center;
+    font-family:cursive;
+    text-decoration:underline;
+    font-size: 21px;
+    letter-spacing: 0.3em;
+    border: 3px white;
+    border-style: double;
+    border-radius: 20px;
+    border-width: 5px;
+    margin: 0px 130px 0px 130px;
+    padding: none;
+    background-color:brown;
+    
+}
+
+.headerpic {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50;
+    background-color:burlywood;
+    padding: 10px 10px 10px 10px;
+    border: 4px white double;
+}
+
+body {
+    background-color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color:burlywood;
+}
+
+.list{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+    background-color: brown;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 16px;
+}
+
+.list .brownie {
+    margin-right: 20px;
+    border-radius: 15px;
+    
+}
+.list .pineapple {
+   
+}
+.list .carrot {
+    margin-left: 20px;
+} 
+
+#recipeheader {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 14px;
+    color:darkgoldenrod;
+    font-style:italic;
+    margin: 0px 200px 0px 200px;
+    border-radius: 4px;
+
+}
+
+p {
+    text-align: center;
+    font-style: oblique;
+}
+
+h2 {
+    text-align: center;
+    color: brown;
+    font-style: italic;
+}
